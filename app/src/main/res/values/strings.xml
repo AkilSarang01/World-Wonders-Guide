@@ -1,0 +1,141 @@
+<resources>
+
+    <!--    1.great wall-->
+    <string name="app_name">Wonders Of The World</string>
+    <string name="Text">The Great Wall of China is an ancient wall in China.The wall is made of cement, rocks, bricks, and powdered dirt. It was finished in 1878 and it was meant to protect the north of the empire of China from enemy attacks. It is the longest structure humans have ever built. It is about 21,196 kilometres (13,171 miles) long, 9.1 metres (30 feet) wide and 15 metres (50 feet) high. The earlier sections on the wall are made of compacted dirt and stone. Later in the Ming Dynasty they used bricks.
+        There are 7,000 watch towers, block houses for soldiers and beacons to send smoke signals.</string>
+    <string name="Text2">The First Emperor of China, Qin Shi Huang, started the Qin Dynasty. The Xiongnu tribes in the north of China were his enemies. The land in some parts of China is easy to cross, so Qin Shi Huang started building the Great Wall to make it more difficult for the Xiongnu to invade China.
+        Other dynasties in China had worked more on the wall and made it longer. The Han, Sui, Northern and Jin Dynasties all repaired, rebuilt or expanded the Great Wall. During the Ming Dynasty, major rebuilding work took place. Sections of the wall were built with bricks and stone instead of earth.</string>
+    <string name="Text3">Builders used materials that were nearby. Some parts of the wall were made of mud, straw, and twigs. Thousands of workers died from giant falling stones, exhaustion, disease, animal attacks, and starvation. The workers who died were buried in and under the Great Wall is a myth.
+    </string>
+    <string name="Text4">Rumours about astronauts being able to see the Great Wall from the moon are scientifically not proven.The Great Wall has shown up in radar images taken from space, but scientists are sure it is not possible for astronauts to see the wall with a naked eye.One astronaut who spoke about the visibility of the Great Wall from space was Neil Armstrong. He said that on the moon, it was very clear that the wall was not visible.
+        However, astronaut William Pogue was able to see the wall from a Low Earth Orbit distance (300-530 km height), but only with binoculars and with lots of practice.</string>
+    <string name="Text5">Nineteen walls have been built that were called the Great Wall of China. The first was built in the 7th century BC. The most famous wall was built between 226–200 BC by the first Emperor of Imperial China, Qin Shai Hong, during the Qin Dynasty. Not much of this wall remains as people have been stealing from it. It was much farther north than the current wall. The current wall was built during the Ming Dynasty.</string>
+    <string name="text6">
+        <a href="https://en.wikipedia.org/wiki/Great_Wall_of_China">1. https://en.wikipedia.org/wiki/Great_Wall_of_China</a>
+    </string>
+    <string name="text7">
+
+        <a href="https://www.history.com/topics/ancient-china/great-wall-of-china">2. https://www.history.com/topics/ancient-china/great-wall-of-china</a>
+
+    </string>
+
+    <!--    2.Chichen-->
+
+    <string name="chichen1">Chichén Itzá is a large Mayan city famous for a large, pyramid temple built by the Maya civilization. It is on the Yucatán Peninsula, about 120 km to the east of Mérida. The temple, called Castillo, is about 1 km in diameter. There are many temples and pyramids at Chichen Itza. Tourists, or visitors, were once able to climb some of the pyramids, but it was quite challenging because the steps are very steep and small. Climbing is no longer permitted.</string>
+    <string name="chichen2">Some of the most famous parts of Chichen Itza include:\n
+        This is the largest pyramid at Chichen Itza, and dedicated to Kukulkan, the Plumed Serpent. Every year on the fall and spring equinox the sun hits the side of the building making a show of light and shadow which looks like a snake along the steps of the building.</string>
+    <string name="chichen3">The layout of Chichen Itza site core developed during its earlier phase of occupation, between 750 and 900 AD.Its final layout was developed after 900 AD, and the 10th century saw the rise of the city as a regional capital controlling the area from central Yucatán to the north coast, with its power extending down the east and west coasts of the peninsula.The earliest hieroglyphic date discovered at Chichen Itza is equivalent to 832 AD, while the last known date was recorded in the Osario temple in 998.</string>
+    <string name="chichen4">The Late Classic city was centered upon the area to the southwest of the Xtoloc cenote, with the main architecture represented by the substructures now underlying the Las Monjas and Observatorio and the basal platform upon which they were built.</string>
+    <string name="chichen5">Chichen Itza rose to regional prominence towards the end of the Early Classic period (roughly 600 AD).It was, however, towards the end of the Late Classic and into the early part of the Terminal Classic that the site became a major regional capital, centralizing and dominating political, sociocultural, economic, and ideological life in the northern Maya lowlands. The ascension of Chichen Itza roughly correlates with the decline and fragmentation of the major centers of the southern Maya lowlands.</string>
+    <string name="chichen6">
+        <a href="https://en.wikipedia.org/wiki/Chichen_Itza">1. https://en.wikipedia.org/wiki/Chichen_Itza</a>
+    </string>
+    <string name="chichen7">
+        <a href="https://www.history.com/topics/ancient-americas/chichen-itza">2. https://www.history.com/topics/ancient-americas/chichen-itza</a>
+    </string>
+
+
+    <!--        3.petra-->
+
+    <string name="petra1">Petra is an ancient city that lies in present-day Jordan and dates back to the fourth century B.C. Ruins of the once-great metropolis and trading center now serve as an important archeologic site and tourist attraction.</string>
+    <string name="petra2">The site is considered significant by historians and archeologists alike because of its beautiful rock-cut architecture and innovative water management system, the latter of which made the region inhabitable, given that it is surrounded by desert and rugged, mountainous terrain.</string>
+    <string name="petra3">The city of Petra was established as a trading post by the Nabateans, an Arab Bedouin tribe indigenous to the region in what is now southwestern Jordan.</string>
+    <string name="petra4">The Nabateans living and trading in Petra soon accumulated a significant amount of wealth, and an envious Greek Empire attacked the city in 312 B.C. This event marks the first reference to Petra in recorded history.\nThe Nabateans successfully fought back the Greek invaders by taking advantage of the mountainous terrain surrounding the city. The mountains effectively served as a natural wall, buttressing Petra.</string>
+    <string name="petra5">As desert dwellers, the Nabateans had long struggled during seasons in which rainfall in the region was limited. When the tribe built Petra, though, they developed a unique system of conduits, dams and cisterns to harvest, store and distribute rainwater for year-round use.</string>
+    <string name="petra6">At certain times of year, the area around the city was prone to flooding. However, the Nabateans were able to effectively control these floods using dams and, therefore, the city’s water supply.\n
+        This meant that they could reside in the city even during periods of drought.It also improved the crop yields of Nabatean farmers.</string>
+    <string name="petra7">After the eighth century, when Petra was largely abandoned as a trading center, its stone structures were used for shelter by nomadic shepherds for several centuries.Then, in 1812, the unique ruins of Petra were “discovered” by Swiss explorer Johann Ludwig Burckhardt. He described the ruins of the once-great city in chronicles of his travels.</string>
+    <string name="petra8">In the early 2000s, the site was named one of the “Seven New Wonders of the World,” leading to a spike in tourism.Since then, efforts have been made to protect the ruins of Petra from heavy tourism, as well as damage from floods, rain and other environmental factors.</string>
+    <string name="petra9">
+        <a href="https://en.wikipedia.org/wiki/Petra">1. https://en.wikipedia.org/wiki/Petra</a>
+    </string>
+    <string name="petra10">
+        <a href="https://www.history.com/topics/ancient-middle-east/petra">2. https://www.history.com/topics/ancient-middle-east/petra</a>
+    </string>
+
+
+    <!--    4.Macchu Picchu-->
+
+    <string name="machu1">Machu Picchu is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.It is located in the Cusco Region, Urubamba Province, Machu picchu District, above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.</string>
+    <string name="machu2">Machu Picchu was built in the classical Inca style, with polished dry-stone walls. Its three primary structures are the Intihuatana, the Temple of the Sun, and the Room of the Three Windows. Most of the outlying buildings have been reconstructed in order to give tourists a better idea of how they originally appeared. By 1976, 30% of Machu Picchu had been restored and restoration continues.</string>
+    <string name="machu3">Machu Picchu is believed (by Richard L. Burger) to be built starting 1450–1460.Construction appears to date from two great Inca rulers, Pachacutec Inca Yupanqui (1438–1471) and Túpac Inca Yupanqui (1472–1493). There is a consensus among archaeologists that Pachacutec ordered the construction of the royal estate for himself, most likely after a successful military campaign. Though Machu Picchu is considered to be a "royal" estate, surprisingly, it would not have been passed down in the line of succession.</string>
+    <string name="machu4">Rather it was used for 80 years before being abandoned, seemingly because of the Spanish Conquests in other parts of the Inca Empire. It is possible that most of its inhabitants died from smallpox introduced by travelers before the Spanish conquistadors arrived in the area.</string>
+    <string name="machu5">During its use as a royal estate, it is estimated that about 750 people lived there, with most serving as support staff (yanaconas, yana)who lived there permanently Though the estate belonged to Pachacutec, religious specialists and temporary specialized workers (mayocs) lived there as well, most likely for the rulers well-being and enjoyment. During the harsher season, staff dropped down to around a hundred servants and a few religious specialists focused on maintenance alone</string>
+    <string name="machu6">There were also varying osteological stressors and varying chemical densities suggesting varying long-term diets characteristic of specific regions that were spaced apart.These diets are composed of varying levels of maize, potatoes, grains, legumes, and fish, but the overall most recent short-term diet for these people was composed of less fish and more corn. This suggests that several of the immigrants were from more coastal areas and moved to Machu Picchu where corn was a larger portion of food intake.</string>
+    <string name="machu7">Much of the farming done at Machu Picchu was done on its hundreds of man-made terraces. These terraces were a work of considerable engineering, built to ensure good drainage and soil fertility while also protecting the mountain itself from erosion and landslides.</string>
+    <string name="machu8">However, the terraces were not perfect, as studies of the land show that there were landslides that happened during the construction of Machu Picchu. Still visible are places where the terraces were shifted by landslides and then stabilized by the Inca as they continued to build around the area.</string>
+    <string name="machu9">
+        <a href="https://en.wikipedia.org/wiki/Machu_Picchu">1. https://en.wikipedia.org/wiki/Machu_Picchu</a>
+    </string>
+    <string name="machu10">
+        <a href="https://www.history.com/topics/south-america/machu-picchu">2. https://www.history.com/topics/south-america/machu-picchu </a>
+    </string>
+
+
+    <!--    5.Christ the Redeemer-->
+
+    <string name="redeemer1">Christ the Redeemer is a monumental statue located in Rio de Janeiro, Brazil. It is the symbol of the city and, beyond that, of the whole Brazil. It is also a symbol of Christianity among the most important of the World. Christ the Redeemer is also an important tourist destination, with 600,000 visitors a year.</string>
+    <string name="redeemer2">It was first imagined in 1850 by a Catholic priest, but this project was born in 1920, when a petition of support was initiated for the construction of a Christian statue. Once the style was chosen, construction began in 1922, and took nine years to be completed. Today, Christ the Redeemer is one of the seven new wonders of the world, a title recently given to 7 world monuments to reflect the list of 7 ancient wonders. It is also the most famous monument in Brazil, and its symbole, such as the Statue of Liberty is for the United States, the Eiffel Tower for France, or the Taj Mahal for India.</string>
+    <string name="redeemer3">The Catholic Circle of Rio made a second proposal for a landmark statue on the mountain in 1920. The group organized an event called Semana do Monumento Monument Week to attract donations and collect signatures to support the building of the statue.The organization was motivated by what they perceived as Godlessness in the society. The donations came mostly from Brazilian Catholics.</string>
+    <string name="redeemer4">In October 2006, on the 75th anniversary of the statues completion, Archbishop of Rio, Cardinal Eusebio Oscar Scheid, consecrated a chapel, named after Brazils patron saint—Our Lady of the Apparition, under the statue, allowing Catholics to hold baptisms and weddings there.</string>
+    <string name="redeemer5">In 1990, several organizations, including the Archdiocese of Rio de Janeiro, media company Grupo Globo, oil company Shell do Brasil, environmental regulator IBAMA, National Institute of Historic and Artistic Heritage, and the city government of Rio de Janeiro entered an agreement to conduct restoration work.</string>
+    <string name="redeemer6">More work on the statue and its environs was conducted in 2003 and early 2010. In 2003, a set of escalators, walkways, and elevators were installed to facilitate access to the platform surrounding the statue. The four-month restoration in 2010 focused on the statue itself. The statues internal structure was renovated and its soapstone mosaic covering was restored by removing a crust of fungi and other microorganisms and repairing small cracks. The lightning rods located in the statues head and arms were also repaired, and new lighting fixtures were installed at the foot of the statue.</string>
+    <string name="redeemer7">
+        •	Christ the Redeemer in Rio Verde, Goiás, Brazil\n
+        •	Christ in the Mount in Pitangui, Minas Gerais, Brazil\n
+        •	Cristo del Otero in Palencia, Spain built in 1930 (21 m)\n
+        •	Cristo Rey (statue, Mexico) located on the Cerro del Cubilete in Guanajuato, Mexico, inspired by Rios Christ the Redeemer (23 m)\n
+        •	Cristo Rey in Tenancingo, México, México (30 m)</string>
+    <string name="history">History:</string>
+    <string name="restoration">Restoration:</string>
+    <string name="similar_structures">Similar Structures:</string>
+    <string name="redeemer8">
+        <a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">1.https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)</a>
+    </string>
+    <string name="redeemer9">
+    <a href="https://theculturetrip.com/south-america/brazil/articles/a-history-of-the-christ-the-redeemer-monument/">2. https://theculturetrip.com/south-america/brazil/articles/a-history-of-the-christ-the-redeemer-monument/</a>
+</string>
+
+
+
+
+    <!--    6.Colosseum-->
+
+    <string name="colosseum1">The Colosseum is the main symbol of Rome. It is an imposing construction that, with almost 2,000 years of history, will bring you back in time to discover the way of life in the Roman Empire.</string>
+    <string name="colosseum2">The construction of the Colosseum began in the year 72 under the empire of Vespasian and was finished in the year 80 during the rule of the emperor Titus. After completion, the Colosseum became the greatest Roman amphitheatre, measuring 188 meters in length, 156 meters in width and 57 meters in height.</string>
+    <string name="colosseum3">The site chosen was a flat area on the floor of a low valley between the Caelian, Esquiline and Palatine Hills, through which a canalised stream ran as well as an artificial lake/marsh.By the 2nd century BC the area was densely inhabited.It was devastated by the Great Fire of Rome in 64 AD, following which Nero seized much of the area to add to his personal domain. He built the grandiose Domus Aurea on the site, in front of which he created an artificial lake surrounded by pavilions, gardens and porticoes. The existing Aqua Claudia aqueduct was extended to supply water to the area and the gigantic bronze Colossus of Nero was set up nearby at the entrance to the Domus Aurea.</string>
+    <string name="colosseum4">Although the Colossus was preserved, much of the Domus Aurea was torn down. The lake was filled in and the land reused as the location for the new Flavian Amphitheatre. Gladiatorial schools and other support buildings were constructed nearby within the former grounds of the Domus Aurea. In contrast to many other amphitheatres, which were located on the outskirts of a city, the Colosseum was constructed in the city centre, in effect, placing it both symbolically and precisely at the heart of Rome.</string>
+    <string name="colosseum5">The Colosseum underwent several radical changes of use. By the late 6th century a small chapel had been built into the structure of the amphitheater, though this apparently did not confer any particular religious significance on the building as a whole. The arena was converted into a cemetery. The numerous vaulted spaces in the arcades under the seating were converted into housing and workshops, and are recorded as still being rented out as late as the 12th century. Around 1200 the Frangipani family took over the Colosseum and fortified it, apparently using it as a castle.</string>
+    <string name="colosseum6">During the 16th and 17th century, Church officials sought a productive role for the Colosseum. Pope Sixtus V (1585–1590) planned to turn the building into a wool factory to provide employment for Romes prostitutes, though this proposal fell through with his premature death.In 1671 Cardinal Altieri authorized its use for bullfights; a public outcry caused the idea to be hastily abandoned.</string>
+    <string name="christ_the_redeemer">Christ the Redeemer:</string>
+    <string name="colosseum8">
+        <a href="https://en.wikipedia.org/wiki/Colosseum">1. https://en.wikipedia.org/wiki/Colosseum</a>
+    </string>
+    <string name="colosseum9">
+        <a href="https://www.history.com/topics/ancient-history/colosseum">2. https://www.history.com/topics/ancient-history/colosseum</a>
+    </string>
+
+
+<!--    7.Taj Mahal-->
+
+    <string name="taj1">Taj Mahal, also spelled Tadj Mahall, mausoleum complex in Agra, western Uttar Pradesh state, northern India. It is situated in the eastern part of the city on the southern (right) bank of the Yamuna (Jumna) River. Agra Fort (Red Fort), also on the right bank of the Yamuna, is about 1 mile (1.6 km) west of the Taj Mahal.</string>
+    <string name="taj2">In its harmonious proportions and its fluid incorporation of decorative elements, the Taj Mahal is distinguished as the finest example of Mughal architecture, a blend of Indian, Persian, and Islamic styles. One of the most beautiful structural compositions in the world, the Taj Mahal is also one of the world’s most iconic monuments, visited by millions of tourists each year. The complex was designated a UNESCO World Heritage site in 1983.</string>
+    <string name="taj3">The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, who died on 17 June that year, while giving birth to their 14th child, Gauhara Begum.Construction started in 1632,and the mausoleum was completed in 1648, while the surrounding buildings and garden were finished five years later.The imperial court documenting Shah Jahans grief after the death of Mumtaz Mahal illustrates the love story held as the inspiration for the Taj Mahal.</string>
+    <string name="taj4">The Taj Mahal was built by the Mughal emperor Shah Jahān (reigned 1628–58) to immortalize his wife Mumtaz Mahal (“Chosen One of the Palace”). She died in childbirth in 1631, after having been the emperor’s inseparable companion since their marriage in 1612. The plans for the complex have been attributed to various architects of the period, though the chief architect was probably Ustad Aḥmad Lahawrī, an Indian of Persian descent. </string>
+    <string name="taj5">The five principal elements of the complex—main gateway, garden, mosque, jawāb (literally “answer”; a building mirroring the mosque), and mausoleum (including its four minarets)—were conceived and designed as a unified entity according to the tenets of Mughal building practice, which allowed no subsequent addition or alteration. Building commenced about 1632. More than 20,000 workers were employed from India, Persia, the Ottoman Empire, and Europe to complete the mausoleum itself by about 1638–39; the adjunct buildings were finished by 1643, and decoration work continued until at least 1647. In total, construction of the 42-acre (17-hectare) complex spanned 22 years.</string>
+    <string name="taj6">Visitors at Taj Mahal:-\n
+The Taj Mahal attracts a large number of tourists. UNESCO documented more than 2 million visitors in 2001,which had increased to about 7–8 million in 2014. A two-tier pricing system is in place, with a significantly lower entrance fee for Indian citizens and a more expensive one for foreigners. In 2018, the fee for Indian citizens was 50 INR, for foreign tourists 1,100 INR. Most tourists visit in the cooler months of October, November and February. Polluting traffic is not allowed near the complex and tourists must either walk from parking areas or catch an electric bus. The Khawasspuras (northern courtyards) are currently being restored for use as a new visitor centre.In 2019, in order to address overtourism, the site instituted fines for visitors who stayed longer than three hours.</string>
+    <string name="taj7">
+
+        <a href="https://en.wikipedia.org/wiki/Taj_Mahal">1. https://en.wikipedia.org/wiki/Taj_Mahal</a>
+
+    </string>
+    <string name="taj8">
+
+        <a href="https://www.history.com/topics/india/taj-mahal">2. https://www.history.com/topics/india/taj-mahal</a>
+
+    </string>
+
+
+</resources>

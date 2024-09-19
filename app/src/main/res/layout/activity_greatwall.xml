@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".greatwall">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Great Wall Of China:"
+                android:textColor="#000000"
+                android:fontFamily="@font/alike_angular"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="#000000"
+                android:fontFamily="@font/asul"
+                android:text="@string/Text"
+                android:textSize="20sp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:background="@drawable/wall2"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Text5"
+                android:fontFamily="@font/asul"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="History:"
+                android:layout_margin="15dp"
+                android:fontFamily="@font/alike_angular"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:background="@drawable/wall3"
+                android:layout_margin="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Text2"
+                android:fontFamily="@font/asul"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Construction and rebuilding of the Great Wall:"
+                android:layout_margin="15dp"
+                android:fontFamily="@font/alike_angular"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:background="@drawable/great2"
+                android:layout_margin="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Text3"
+                android:fontFamily="@font/asul"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Visibility from space:"
+                android:layout_margin="15dp"
+                android:fontFamily="@font/alike_angular"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Text4"
+                android:fontFamily="@font/asul"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="For More Information:-"
+                android:fontFamily="@font/alike_angular"
+                android:textSize="25sp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                android:textAlignment="center"
+                />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/txt3"
+            android:text="@string/text6"
+            android:fontFamily="@font/asul"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:layout_margin="10dp"
+            android:textColor="@android:color/holo_blue_dark"
+            />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/txt7"
+                android:text="@string/text7"
+                android:fontFamily="@font/asul"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/holo_blue_dark"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn1"
+                android:text="Go To Location"
+                android:onClick="Loc1"
+                android:textStyle="bold"
+                android:fontFamily="@font/alike_angular"
+                android:textSize="15sp"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:textColor="@android:color/holo_green_light"
+                android:drawableRight="@drawable/ic_baseline_add_location_24"
+                />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
